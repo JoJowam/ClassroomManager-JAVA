@@ -1,0 +1,62 @@
+classroom
+Sala 1
+10
+classroom
+Sala 2
+5
+classroom
+Sala 3
+5
+classroom
+Sala 4
+3
+course
+MAT101
+Matematica
+Segunda, Terça
+course
+ENG201
+Ingles
+Segunda, Terça
+course
+HIS301
+Historia
+Quarta, Quinta
+course
+SCI401
+Ciencias
+Quarta, Quinta
+course
+ART501
+Artes
+Terça, Sexta
+course
+MUS601
+Musica
+Quarta, Quinta
+course
+PED701
+Educacao Fisica
+Quinta, Sexta
+course
+COM801
+Comunicacao
+Terça, Quarta
+professor
+Josias José Araújo
+156.345.321-21
+31 986743212
+PED701
+student
+Poliana Ferreira
+146.432.322-54
+31 993234454
+20.1.1111
+PED701
+student
+Tadeu Andrade
+123.136.872-21
+31 993452134
+20.1.2222
+PED701
+
